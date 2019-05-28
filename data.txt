@@ -1,3 +1,4 @@
 Name: Miriam
 Age: 28
 Favorite Color: Yellow
+City: Madrid
